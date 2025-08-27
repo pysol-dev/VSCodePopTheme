@@ -53,9 +53,9 @@
         
         // Editor
         "editor.background": "#3F3B39",
-        "editor.foreground": "#DEDEDE",
+        "editor.foreground": "#dedede",
         "editorWidget.background": "#2B2928",
-        "editorCursor.foreground": "#DEDEDE",
+        "editorCursor.foreground": "#b66904",
         "editorWhitespace.foreground": "#DEDEDE11",
         "editor.lineHighlightBackground": "#4C4845",
         "editor.selectionBackground": "#00616F",
